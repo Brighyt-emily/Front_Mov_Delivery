@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Delivery</string>
+    <string name="hint_input_email_login">Tu correo</string>
+    <string name="text_nombre_empresa_login">Partner Tech</string>
+    <string name="text_iniciar_sesion_login">Iniciar Sesión</string>
+    <string name="text_saludo_login">Hola!, un gusto verte de nuevo</string>
+    <string name="text_email_login">Email</string>
+    <string name="text_password_login">Password</string>
+    <string name="switch_recordar_login">Recordar</string>
+    <string name="button_ingresar_login">Ingresar</string>
+    <string name="text_olvidaste_constraseña_login">Olvidaste tu contraseña?</string>
+    <string name="text_registrar_login">Registrate</string>
+    <string name="hint_input_contrasena_login">Tu contraseña</string>
+    <string name="text_registrate_registrar">Registrate</string>
+    <string name="text_conf_contrasena_registrar">Confirm password</string>
+    <string name="checkbox_confirmar_registrar">Acepto los terminos del Servicio y las Políticas de Privacidad</string>
+    <string name="button_continuar_registrar">Continuar</string>
+    <string name="text_pregunta_registrar">¿Tienes una cuenta?</string>
 </resources>
