@@ -26,6 +26,8 @@ public class LoginActivity extends AppCompatActivity {
         buttonIngresar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent intentIniciar = new Intent(LoginActivity.this, MainActivity.class);
+                startActivity(intentIniciar);
             }
         });
 

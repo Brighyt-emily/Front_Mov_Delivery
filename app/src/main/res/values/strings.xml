@@ -16,4 +16,12 @@
     <string name="checkbox_confirmar_registrar">Acepto los terminos del Servicio y las Políticas de Privacidad</string>
     <string name="button_continuar_registrar">Continuar</string>
     <string name="text_pregunta_registrar">¿Tienes una cuenta?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Que tal?</string>
+    <string name="text_agregar_prod_tu_orden">+ Añadir otro producto</string>
+    <string name="text_costo_dlv_tu_orden">Costo del delivery</string>
+    <string name="text_total_tu_orden">Total</string>
+    <string name="text_agregar_nota_tu_orden">+ Añadir notas</string>
+    <string name="button_aceptar_tu_orden">Aceptar</string>
 </resources>
