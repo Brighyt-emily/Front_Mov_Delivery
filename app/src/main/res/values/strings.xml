@@ -24,4 +24,14 @@
     <string name="text_total_tu_orden">Total</string>
     <string name="text_agregar_nota_tu_orden">+ Añadir notas</string>
     <string name="button_aceptar_tu_orden">Aceptar</string>
+    <string name="text_direccion_dlv_checkout">Direccion de Delivery</string>
+    <string name="text_cambiar_direccion_checkout">Cambiar</string>
+    <string name="text_metodo_pago_checkout">Método de pago</string>
+    <string name="text_resumen_checkout">Resumen</string>
+    <string name="text_subtotal_checkout">Sub Total</string>
+    <string name="text_descuento_checkout">Descuento</string>
+    <string name="text_delivery_checkout">Delivery</string>
+    <string name="text_total__checkout">Total</string>
+    <string name="text_guardar_checkout">Guardar</string>
+    <string name="button_realizar_pedido_checkout">Realizar pedido</string>
 </resources>

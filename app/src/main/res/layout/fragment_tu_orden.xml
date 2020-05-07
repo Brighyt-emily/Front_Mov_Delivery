@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/fragmentTuOrden"
     tools:context=".Fragments.TuOrdenFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -94,13 +95,13 @@
             app:layout_constraintTop_toBottomOf="@+id/textViewAgregarProdTuOrden" />
 
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/textViewTotalValorTuOrden"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             android:layout_marginEnd="40dp"
             android:layout_marginRight="40dp"
-            android:text="s/810"
+            android:text="s/785"
             android:textSize="16dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textViewValorDlvTuOrden" />
@@ -120,28 +121,28 @@
             app:layout_constraintTop_toBottomOf="@+id/textViewTotalTuOrden" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/buttonAceptarTuOrden"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="40dp"
-            android:layout_marginLeft="40dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginLeft="30dp"
             android:layout_marginTop="30dp"
-            android:layout_marginEnd="40dp"
-            android:layout_marginRight="40dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginRight="30dp"
             android:layout_marginBottom="10dp"
+            android:background="#52de97"
             android:paddingTop="18dp"
             android:paddingBottom="18dp"
-            android:background="#52de97"
+            android:text="@string/button_aceptar_tu_orden"
             android:textColor="#fff"
             android:textSize="15dp"
             android:textStyle="bold"
-            android:text="@string/button_aceptar_tu_orden"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textViewAgregarNotaTuOrden"
-            app:layout_constraintVertical_bias="0.485" />
+            app:layout_constraintVertical_bias="0.951" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
