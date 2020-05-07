@@ -35,7 +35,7 @@
             android:layout_margin="10dp"
             android:text="Lista de Tiendas:"
             android:gravity="left"
-            android:textColor="@color/colorBlack"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="20dp"
             />
